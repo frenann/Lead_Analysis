@@ -76,6 +76,13 @@ As análises foram desenvolvidas utilizando SQL para tratamento, agregação e c
 
 <br>
 
+[📈**Informações Demográficas dos Leads**](docs/InfoDemográfica_Leads.png)
+
+[📈**Interesse dos Leads**](docs/Interesse_Leads.png)
+
+<br>
+
+
 **🚀 Conclusão**
 
 <br>
