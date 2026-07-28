@@ -52,6 +52,8 @@ Analisar o perfil de renda dos usuários e seu potencial de consumo.
 
 Avaliar o interesse dos leads por veículos novos e seminovos.
 
+<br>
+
 **Idade dos Veículos Visitados**
 
 Compreender a preferência dos usuários em relação ao tempo de uso dos veículos visualizados.
