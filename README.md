@@ -72,6 +72,8 @@ Identificar os modelos que concentram o maior interesse dos potenciais clientes.
 
 As análises foram desenvolvidas utilizando SQL para tratamento, agregação e consolidação dos dados. A partir das informações cadastrais dos leads e dos registros de navegação, foram construídos indicadores que permitiram transformar dados operacionais em informações relevantes para o negócio.
 
+<br>
+
 **📈 Relatório de Resultados**
 
 <br>
