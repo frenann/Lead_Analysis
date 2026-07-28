@@ -24,31 +24,41 @@ Desenvolver uma análise que permita identificar o perfil predominante dos leads
 
 <br>
 
-Gênero dos Leads
+**Gênero dos Leads**
 
 Avaliar a distribuição dos leads entre os diferentes gêneros, identificando a composição do público atendido.
 
-Status Profissional
+<br>
+
+**Status Profissional**
 
 Compreender a situação profissional predominante entre os potenciais clientes.
 
-Faixa Etária
+<br>
+
+**Faixa Etária**
 
 Identificar os grupos de idade com maior representatividade na base de leads.
 
-Faixa Salarial
+<br>
+
+**Faixa Salarial**
 
 Analisar o perfil de renda dos usuários e seu potencial de consumo.
 
-Classificação dos Veículos Visitados
+<br>
+
+**Classificação dos Veículos Visitados**
 
 Avaliar o interesse dos leads por veículos novos e seminovos.
 
-Idade dos Veículos Visitados
+**Idade dos Veículos Visitados**
 
 Compreender a preferência dos usuários em relação ao tempo de uso dos veículos visualizados.
 
-Veículos Mais Visitados por Marca
+<br>
+
+**Veículos Mais Visitados por Marca**
 
 Identificar os modelos que concentram o maior interesse dos potenciais clientes.
 
